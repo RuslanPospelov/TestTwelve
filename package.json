@@ -1,0 +1,20 @@
+{
+  "name": "testtwelve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuslanPospelov/TestTwelve.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuslanPospelov/TestTwelve/issues"
+  },
+  "homepage": "https://github.com/RuslanPospelov/TestTwelve#readme"
+}
